@@ -1,0 +1,49 @@
+.container-div {
+    background-color:blanchedalmond;
+  }
+  
+  h1 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    border: black;
+    margin-top: 20px;
+    padding-top: 15px;
+  }
+  h2 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    text text-decoration-color: border: 10px;
+    margin-top: 20px;
+    padding-top: 15px;
+  }  
+  .desc {
+    font-family: 'Merriweather', serif;
+    color: #444;
+  }
+  
+  .pic {
+    width: 80%;
+    margin: 1%;
+  }
+  
+  p {
+    text-align: center;
+    padding: 1%;
+    font-size: 15%;
+    text-underline-offset: 10px;
+  }
+  
+  p, li {
+    font-family: 'Slabo 27px', serif;
+    font-size: 1.2em;
+  }
+  
+  .quote {
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+  }
+  
+  .lastLine {
+    font-size: 1.5em;
+  }
